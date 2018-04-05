@@ -1,0 +1,27 @@
+{
+  "name": "svg-optimized",
+  "version": "1.0.0",
+  "description": "SASS mixin that optimizes the svg markup to a background style.",
+  "main": "index.scss",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christo8989/svg-optimized.git"
+  },
+  "keywords": [
+    "sass",
+    "svg",
+    "scss"
+  ],
+  "author": "Christopher Jeffery",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/christo8989/svg-optimized/issues"
+  },
+  "homepage": "https://github.com/christo8989/svg-optimized#readme"
+}
